@@ -1,4 +1,4 @@
-This is the Project I did for my CAPE Computer Science School Based Assessment.\n
+This is the Project I did for my CAPE Computer Science School Based Assessment.
 This is the background of the business and problem statment used for the writeup for the assessment:
 
 
