@@ -1,0 +1,108 @@
+iphone 12: 
+ Price: $649.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 56
+ Year: 2020
+
+
+iphone 13: 
+ Price: $649.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 43
+ Year: 2021
+
+
+iphone 14: 
+ Price: $649.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 74
+ Year: 2022
+
+
+ipad pro: 
+ Price: $799.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 64
+ Year: 2022
+
+
+ipad air: 
+ Price: $599.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 59
+ Year: 2020
+
+
+ipad mini: 
+ Price: $499.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 33
+ Year: 2019
+
+
+macbook pro: 
+ Price: $1999.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 57
+ Year: 2021
+
+
+macbook m2: 
+ Price: $1199.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 56
+ Year: 2022
+
+
+macbook m1: 
+ Price: $999.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 49
+ Year: 2019
+
+
+imac pro: 
+ Price: $5999.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 13
+ Year: 2019
+
+
+imac studio: 
+ Price: $1999.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 9
+ Year: 2022
+
+
+imac mini: 
+ Price: $699.00
+ Profit: $0.00
+ Purchases: $0.00
+ Sales: $0.00
+ Stock: 16
+ Year: 2019
+
+
