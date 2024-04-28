@@ -9,7 +9,7 @@ NJ's Tech Store is a small electronics retailer located in Arima, Trinidad and T
 NJ's Tech Store carries a wide range of Apple products, including iPhones, iPads, MacBooks and iMacs. NJ’s Tech Store has only 1 manager, who is the owner, managing 15 employees, 4 of which keep track of all products and 3 work behind the counter selling these products. Currently these employees keep track of stock, sales, and purchases through physical records.
 
 
-**Problem Statement:**
+##**Problem Statement:**
 
 The employees complain to the owner that they have a problem with the current system of keeping records. The physical records have the cons outweighing the pros, that is, it is tedious to write down every sale made, hand writing can be difficult to understand by other employees, the physical record can be damaged or lost. Also, the calculations are done by the employees which can lead to some miscalculations and inaccurate numbers. This method could also decrease the amount of sales done in a day and can dissatisfy customers because of how long it takes to get a sale done.
 
